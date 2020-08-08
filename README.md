@@ -62,6 +62,40 @@
   链接：https://pan.baidu.com/s/1-CGeMn4HCOCwtg-19cSWJw 
   提取码：nkzy
   
+### 信息安全工程师教程-画重点复习版
+  链接：https://pan.baidu.com/s/1mIziz1aVybn3IlCBj1tXPw 
+  提取码：qhcs
+  
+### Wireshark数据包分析实战
+  链接：https://pan.baidu.com/s/14_2cPmiubsmeJruP3i0vLQ 
+  提取码：5a3l 
+
+### Wireshark网络分析就这么简单
+  链接：https://pan.baidu.com/s/1kjgaPn0L7YexchV3QXOPQQ 
+  提取码：nfjg 
+
+### SQL注入攻击与防御  第2版
+  链接：https://pan.baidu.com/s/1a0UO31Y7fNorQgUoCuhXXg 
+  提取码：2eys
+  
+### CCNA认证指南（640-802）崔北亮
+  链接：https://pan.baidu.com/s/1stCwoziRrt1ae_0LA4XqWg 
+  提取码：gunb   
+
+### Kali Linux高级渗透测试
+  链接：https://pan.baidu.com/s/17bqcMR8GVvyTjulUB8sYqA 
+  提取码：hv7j
+  
+### Nmap渗透测试指南
+  链接：https://pan.baidu.com/s/1xi8kEYBZVTrI3o6rRpMv2A 
+  提取码：hf2x
+  
+  
+# 要是有的小伙伴想要全部的书籍的话 小瓶子已经给大家打包好了哦！点击下方链接下载：
+  链接：https://pan.baidu.com/s/1aWPfaI4tS-FUOhbiB-h4uw 
+  提取码：md42
+
+  
   
   
   
